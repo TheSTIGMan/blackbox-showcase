@@ -1,6 +1,6 @@
-# Quarantine — SOC Agent Prototype
+# Blackbox — SOC Agent Prototype
 
-Quarantine is a Security Operations Center (SOC) simulation dashboard. You click one button to generate a realistic cybersecurity incident, and a second button to run a two-stage AI pipeline that classifies the incident and then critiques its own classification — all using a locally hosted AI model. No data ever leaves your machine.
+Blackbox is a Security Operations Center (SOC) simulation dashboard. You click one button to generate a realistic cybersecurity incident, and a second button to run a two-stage AI pipeline that classifies the incident and then critiques its own classification — all using a locally hosted AI model. No data ever leaves your machine.
 
 Think of it as a training tool: it shows how SOC analysts triage incidents using a real framework (NIST SP 800-61), with an AI acting as both the first analyst and the quality reviewer.
 
